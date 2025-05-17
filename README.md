@@ -15,7 +15,7 @@ Um chatbot simples feito em Node.js que se comunica com a API do **Google Gemini
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/gemini-cli-chat.git
+git clone https://github.com/ryangustav/gemini-cli-chat.git
 cd gemini-cli-chat
 ````
 
@@ -63,7 +63,7 @@ node index.js
 ```
 gemini-cli-chat/
 ├── index.js         # Código principal do bot
-├── .env             # Token da API (não commitar!)
+├── .env             # Token da API
 ├── package.json
 ├── README.md
 └── .gitignore
@@ -76,8 +76,3 @@ gemini-cli-chat/
 Este projeto foi feito para fins educacionais e pessoais. Sinta-se à vontade para clonar, modificar e usar como quiser.
 
 ---
-
-```
-
-Se quiser, posso gerar uma versão com imagem de exemplo para você se inspirar. Deseja isso?
-```
