@@ -16,7 +16,7 @@ Um chatbot simples feito em Node.js que se comunica com a API do **Google Gemini
 
 ```bash
 git clone https://github.com/ryangustav/Chatbot-terminal.git
-cd gemini-cli-chat
+cd Chatbot-terminal
 ````
 
 ### 2. Instale as dependências
