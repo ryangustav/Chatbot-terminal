@@ -54,7 +54,7 @@ node index.js
 ## ⚠️ Requisitos
 
 * Node.js v18+
-* Token da API do [Google Generative AI](https://ai.google.dev/)
+* Token da API do [Google Generative AI](https://aistudio.google.com/apikey)
 
 ---
 
