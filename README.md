@@ -1,6 +1,6 @@
 # 🤖 Gemini CLI Chat
 
-Um chatbot simples feito em Node.js que se comunica com a API do **Google Gemini** direto pelo terminal. Feito para diversão, aprendizado ou para usar como base em projetos maiores.
+Um chatbot simples feito em Node.js que se comunica com a API do **Google Gemini** direto pelo terminal. Feito para diversão, aprendizado e para usar como base em projetos maiores.
 
 ---
 
